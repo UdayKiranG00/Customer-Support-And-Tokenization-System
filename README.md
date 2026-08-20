@@ -1,4 +1,4 @@
-# csms
+# csts
 This application is designed to support the customers by allowing to them to send queries in multiple languages and scheduling them with a token at public offices. Functionalities of customer are select language, query the services available, select the service, view the required documents. Functionalities of Officers are request the relative token, mark the token as COMPLETE, CANCEL OR DELETE, update profile data. Functionalities of admin are adding services and documents data to appplication and mapping them correspondingly as per the rules.
 ### Example: 
 For a service like
